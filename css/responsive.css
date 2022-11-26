@@ -195,6 +195,9 @@ header.sticky nav ul li a {
     padding: 7px 0px 10px 0px;
 }
 
+#menu article h3 {
+    font-size: 15px;
+}
 		}
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
